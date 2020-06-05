@@ -40,6 +40,7 @@ Around 1995, Kitaev introduced the [toric code](https://en.wikipedia.org/wiki/To
 ![hyperbolic lattice](hyperbolic_lattices.png)
 
 Actual Hardware Implementation
+
 ![hyperbolic hardware](hyperbolic_chip.png)
 
 ### Quantum Gravity
