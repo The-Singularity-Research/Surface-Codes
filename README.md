@@ -49,10 +49,9 @@ There is a deep connection between hyperbolic surface codes and certain theories
 From Graphs to Geometry](https://arxiv.org/pdf/1910.12318.pdf). For an explanation of the AdS/CFT correspondence see the [most cited physics paper of all time](https://scholar.google.com/citations?user=jbSdNFUAAAAJ&hl=en), with nearly 20,000 citations as of June 2020, written by Juan Maldecena [The Large N Limit of Superconformal field
 theories and supergravity](https://arxiv.org/pdf/hep-th/9711200.pdf).
 
-### QuBitcoin
+### Arbitrage
 
-It is well known by mathematical economists such as Eric Weinstein (see for example [Gauge Invariance, Geometry and Arbitrage]() and [Gauge Theory and Inflation: Enlarging the Wu-Yang Dictionary
-to a unifying Rosetta Stone for Geometry in Application](https://www.youtube.com/watch?v=h5gnATQMtPg)), that lattice gauge theory can be used in modeling certain economic processes. One instance of where lattice gauge theory proves useful is in modeling *arbitrage*, which is an essentially risk free way of tading currencies and taking advantage of exchange rates make gains. While cryptocurrency such as Bitcoin and Etherium are technological wonders, they are sometimes highly [vulnerable to arbitrage](https://www.finder.com/cryptocurrency-arbitrage#:~:text=Cryptocurrency%20arbitrage%20allows%20you%20to,where%20the%20price%20is%20high.). This might prove beneficial to someone with ample funds and a fast computer looking to gain wealth quickly, while proving harmful to others. Understanding the vulnerabilities and harm free opportunities means understanding the dynamics of the lattice gauge theory describing cryptocurrency exchange. Such a lattice gauge theory can be modeled by a surface code, and a new form of cryptocurrency, or more accurately an enhancement of current cryptocurrency, "**QuBitcoin**" could be built with quantum physics in mind to moake the currency more stable and robust against attacks. Using machine learning with the quantum dynamics exhibited by a lattice gauge theory modeled on a quantum computer *accurately* and for *very large systems* might improve the ability to predict future behavior of markets and arbitrage opportunities. Predicting such opportunities would of course allow a bad actor to take advantage, but it would also allow a good actor to create more stable cryptocurrency by anticipating vulnerabilities. 
+Using an appropriate guage theory for hybrid qudit codes allows for modeling arbitrage opportunities. 
 
 ### Mathematics and Cryptography
 
